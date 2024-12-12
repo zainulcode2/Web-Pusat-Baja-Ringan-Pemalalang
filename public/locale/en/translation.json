@@ -1,0 +1,452 @@
+{
+  "firstHeader": {
+    "saleMessage": "Cari bahan material yang lengkap? disini saja. kami menyediakan berbagai kebutuhan anda",
+    "shopNow": "Belanja Sekarang"
+  },
+
+  "languageSelector": {
+    "english": "Indonesia"
+  },
+
+  "nav": {
+    "home": "Home",
+    "contact": "Contact",
+    "about": "About"
+  },
+
+  "navTools": {
+    "favorite": "Favorites",
+    "cart": "Cart",
+    "userMenu": "User menu"
+  },
+
+  "homeSlider": {
+    "title": "Harga Termurah dibanding Tempat Lain"
+  },
+
+  "products": {
+    "GentengMetalPasir": {
+      "shortName": "Genteng Metal Pasir",
+      "name": "Genteng Metal Pasir",
+      "category": "Genteng",
+      "description": "Kualitas Terbaik"
+    },
+    "GentengSoka": {
+      "shortName": "Genteng Soka",
+      "name": "Genteng Soka",
+      "category": "Genteng",
+      "description": "Kualitas Terbaik"
+    },
+    "BataRingan": {
+      "shortName": "Bata Ringan",
+      "name": "Bata Ringan",
+      "category": "Bata",
+      "description": "Kualitas Terbaik"
+    },
+    "Besi": {
+      "shortName": "Besi",
+      "name": "Besi",
+      "category": "Besi",
+      "description": "Kualitas Terbaik"
+    },
+    "Canal": {
+      "shortName": "Canal",
+      "name": "Canal",
+      "category": "Canal",
+      "description": "Kualitas Terbaik"
+    },
+    "Galvalum": {
+      "shortName": "Galvalum",
+      "name": "Galvalum",
+      "category": "Galvalum",
+      "description": "Kualitas Terbaik"
+    }
+  },
+
+  "productCard": {
+    "buttonText": {
+      "addToCart": "Hubungi Admin Untuk Respon Cepat"
+    },
+    "icons": {
+      "details": "Details",
+      "remove": "Remove",
+      "wishlist": "Wishlist",
+      "favorite": "Favorite"
+    }
+  },
+
+  "detailsPage": {
+    "productRate": "Product rate is {{rate}} of 5 stars",
+    "reviews": "({{votes}} Reviews)",
+    "inStock": "Tersedia",
+    "colors": "Colors",
+    "size": "Size",
+    "addToFav": "Add to Favorites",
+    "freeDelivery": {
+      "title": "Gratis Biaya Pengiriman",
+      "description": "Pengiriman cepat tanpa biaya"
+    },
+    "returnDelivery": {
+      "title": "Belanja Mudah",
+      "description": "Beli barang mudah hanya melalui online"
+    },
+    "relatedItems": "Related Items"
+  },
+
+  "common": {
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "days": "Hari",
+    "hours": "Jam",
+    "minutes": "Menit",
+    "seconds": "Detik",
+    "reset": "Reset",
+    "welcome": "Welcome",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "resultsNotFound": "No results found.",
+    "weDontHaveProducts": "Sorry We don't have any products in this category",
+    "backTo": "Back to",
+    "home": "Home page"
+  },
+
+  "history": {
+    "account": "Account",
+    "products": "Products",
+    "cart": "Cart",
+    "checkout": "Checkout",
+    "results": "Results",
+    "404Error": "404 Error",
+    "orders": "orders"
+  },
+
+  "footer": {
+    "section1": {
+      "subscribe": "Ikuti Kami",
+      "getOffer": "Dapatkan informasi diskon",
+      "enterEmailPlaceholder": "Masukan Email Anda",
+      "sendLabel": "kirim",
+      "sendingLabel": "Mengirim"
+    },
+    "section2": {
+      "support": "Support",
+      "address": "Sokawangi, Pemalang"
+    },
+    "section3": {
+      "account": "Account",
+      "myAccount": "My Account",
+      "loginRegister": "Login / Register",
+      "cart": "Cart",
+      "wishlist": "Wishlist",
+      "shop": "Shop"
+    },
+    "section4": {
+      "quickLink": "Quick Link",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfUse": "Terms Of Use",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "section5": {
+      "downloadApp": "Download App",
+      "saveThreeDollars": "Save $3 with App New User Only"
+    },
+    "copyRightsText": {
+      "designedBy": "Website designed by",
+      "codedBy": "and coded by"
+    }
+  },
+
+  "sectionsMenu": {
+    "title": "Bata Ringan"
+    },
+
+  "mobileNav": {
+    "profile": "Profile",
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "myCart": "My Cart",
+    "myOrder": "My Order",
+    "favorite": "Favorite",
+    "wishlist": "Wishlist",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "hey": "Hey"
+  },
+
+  "buttons": {
+    "viewAllProducts": "Lihat Produk Lainya",
+    "buyNow": "Beli Sekarang",
+    "viewAll": "Lihat Produk",
+    "sendMessage": "Kirim Pesan",
+    "saveChanges": "Save Changes",
+    "moveAllToBag": "Move All To Bag",
+    "seeAll": "See All",
+    "returnToShop": "Return To Shop",
+    "updateCart": "Update Cart",
+    "applyCoupon": "Applay Coupon",
+    "processToCheckout": "Process To Checkout",
+    "placeOrder": "Place Order",
+    "backToHome": "Back to home page",
+    "createAccount": "Create Account",
+    "signUpWithGoogle": "Sign Up With Google",
+    "login": "Log In",
+    "confirmReceiveAll": "Confirm receive all",
+    "cancelAll": "Cancel all"
+  },
+
+  "aboutPage": {
+    "heroSection": {
+      "heading": "Tentang Kami",
+      "paragraphOne": "Cv Cahaya Mitra Pratama Berdiri Sejak...",
+      "paragraphTwo": "Deskripsi Lagi",
+      "imageAlt": "two young women happy with shopping"
+    },
+    "cardInfo": {
+      "aboutCardsInfo1": "Sellers active on our site",
+      "aboutCardsInfo2": "Monthly Product Sales",
+      "aboutCardsInfo3": "Customers active on our site",
+      "aboutCardsInfo4": "Annual gross sales on our site"
+    },
+    "ourMembersData": {
+      "founderChairman": {
+        "name": "Tom Cruise",
+        "jobTitle": "Founder & Chairman"
+      },
+      "managingDirector": {
+        "name": "Emma Watson",
+        "jobTitle": "Managing Director"
+      },
+      "productDesigner": {
+        "name": "Will Smith",
+        "jobTitle": "Product Designer"
+      }
+    },
+    "featuresSectionData": {
+      "car": {
+        "iconAlt": "Car",
+        "title": "Pengiriman Cept dan Gratis Biaya",
+        "description": "Gratis Pengiriman Untuk Pesanan >10000k"
+      },
+      "headphone": {
+        "iconAlt": "Headphone",
+        "title": "Admin Fast Respon Pada Jam Kerja",
+        "description": "Konsultasikan Apa Kebutuhan Anda"
+      }
+    }
+  },
+
+  "sectionTitles": {
+    "todaysSection": {
+      "title": "Hari ini",
+      "flashSales": "Turun Harga"
+    },
+    "categoriesSection": {
+      "title": "Kategori",
+      "browseByCategory": "Cari Kebutuhan Berdasarkan Kategori"
+    },
+    "thisMonthSection": {
+      "title": "Bulan ini",
+      "bestSelling": "Produk Terlaris"
+    },
+    "ourProducts": {
+      "title": "Produk Lain",
+      "exploreProducts": "Semua Produk Kita"
+    },
+    "featuredSection": {
+      "title": "",
+      "newArrival": ""
+    },
+    "forYou": ""
+  },
+
+  "categoriesData": {
+    "genteng": "Genteng",
+    "bata": "Bata",
+    "besi": "Besi",
+    "canal": "Canal",
+    "galvalum": "Galvalum"
+  },
+
+  "productPoster": {
+    "title": "",
+    "subTitle": "Bata Ringan Kualitas Terbaik, Harga Termurah"
+  },
+
+  "notFoundPage": {
+    "tabTitle": "Page Not Found",
+    "description": "Your visited page was not found. You may go to the home page.",
+    "notBuiltTabTitle": "Page Not Built",
+    "notBuiltDescription": "Sorry, the page you're looking for is not built yet."
+  },
+
+  "featuredSection": {
+    "mediumPoster": {
+      "title": "Genteng Soka",
+      "description": "Deskripsi Genteng Soka"
+    },
+    "horizontalPoster": {
+      "title": "",
+      "description": ""
+    },
+    "smallPoster1": {
+      "title": "",
+      "description": ""
+    },
+    "smallPoster2": {
+      "title": "",
+      "description": ""
+    }
+  },
+
+  "tooltips": {
+    "scrollToTop": "Scroll to top",
+    "repoStarsForks": "website's repository",
+    "searchButton": "Search",
+    "remove": "Remove",
+    "confirm": "Confirm",
+    "hidePermanent": "Permanently hide this button."
+  },
+
+  "inputsPlaceholders": {
+    "whatYouLookingFor": "What are you looking for?",
+    "enterYourEmail": "Enter your email",
+    "yourName": "Nama",
+    "yourEmail": "Email",
+    "yourMessage": "Pesan",
+    "yourPhone": "No WA",
+    "address": "alamat",
+    "currentPass": "Current password",
+    "confirmPass": "Confirm password",
+    "newPass": "New password",
+    "couponExample": "Example SAVE20",
+    "fullName": "Full Name",
+    "emailOrPhone": "Email or Phone Number",
+    "password": "Password"
+  },
+
+  "inputsLabels": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "companyName": "Company Name",
+    "streetAddress": "Street Address",
+    "apartment": "Apartment, floor, etc. (optional)",
+    "cityOrTown": "Town/City",
+    "phoneNumber": "Phone Number",
+    "emailAddress": "Email Address",
+    "saveThisInfo": "Save this information for faster check-out next time",
+    "passwordChanges": "Password changes",
+    "address": "Address"
+  },
+
+  "loginSignUpPage": {
+    "createAccount": "Create an account",
+    "enterDetails": "Enter your details below",
+    "login": "Log in to Exclusive",
+    "forgotPassword": "Forgot password?",
+    "alreadyHaveAcc": "Already have an account?",
+    "dontHaveAcc" :"don't you have an account? "
+  },
+
+  "favoritePage": {
+    "title": "Favorites ({{numberOfProducts}})"
+  },
+
+  "connectionLabel": {
+    "restoredInternet": "The connection has been restored",
+    "noInternetAvailable": "No internet connection available."
+  },
+
+  "contactPage": {
+    "contactInfoCard": {
+      "phoneSection": {
+        "title": "Hubungi Kami Melalui",
+        "weAreAvailable": "WhatsApp.",
+        "phoneNumber": "Phone"
+      },
+      "emailSection": {
+        "title": "Write To Us",
+        "fillOut": "Fill out our form and we will contact you within 24 hours.",
+        "customersEmail": "Customers Email",
+        "supportEmail": "Support Email"
+      }
+    }
+  },
+
+  "accountPage": {
+    "editProfile": "Edit Your Profile",
+    "accountMenuSection": {
+      "manageMyAccount": "Manage My Account",
+      "myOrders": "My Orders",
+      "profile": "My Profile",
+      "addressBook": "Address Book",
+      "paymentOptions": "My Payment Options",
+      "returns": "My Returns",
+      "cancellations": "My Cancellations"
+    }
+  },
+
+  "cartPage": {
+    "productsTable": {
+      "product": "Product",
+      "price": "Price",
+      "quantity": "Quantity",
+      "subtotal": "Subtotal"
+    },
+    "cartInfoMenu": {
+      "cartTotal": "Cart Total",
+      "subTotal": "Subtotal",
+      "shipping": "Shipping",
+      "free": "Free",
+      "total": "Total",
+      "processToCheckout": "Proceed to Checkout"
+    }
+  },
+
+  "checkoutPage": {
+    "hasNoProducts": "Your cart is currently empty."
+  },
+
+  "userMenuItems": {
+    "profile": "Manage My Account",
+    "cart": "My Order",
+    "cancellations": "My Cancellations",
+    "reviews": "My Reviews",
+    "wishlist": "Wishlist",
+    "logout": "Logout"
+  },
+
+  "toastAlert": {
+    "accountInfoUpdated": "Account's information updated.",
+    "messageSent": "Thank you for your message!, we will get back to you shortly.",
+    "subscriptionSuccess": "You subscribed to exclusive offers!",
+    "subscriptionFailed": "Failed to subscribe, Please check your internet connection.",
+    "loginSuccess": "You logged in successfully, Welcome back!",
+    "loginFailed": "Failed to login, Please check your internet connection.",
+    "addToCart": "Please sign in to add product to cart.",
+    "addToFavorite": "Please sign in to add/remove product to favorites.",
+    "addToWishList": "Please sign in to add/remove product to wishlist.",
+    "signInSuccess": "You signed in successfully, Welcome!",
+    "signOutSuccess": "You Signed out of your account.",
+    "pageRequiringSignIn": "Please sign in to visit this page.",
+    "signInToPerformAction": "You have to sign in to do this action.",
+    "cartEmpty": "Please add some items to cart first.",
+    "productAlreadyInCart": "You have already added this product to cart",
+    "productAlreadyInOrder": "You have already added this product to orders",
+    "removeOrderProduct": "Remove {{translatedProduct}} from your order?",
+    "confirmOrderProduct": "Did you receive {{translatedProduct}}?",
+    "receivedAllOrder": "Have you received all the products?",
+    "cancelAllOrder": "Are you sure you want to cancel all orders?",
+    "checkoutSuccess": "Thank you for your order! We'll start processing it right away."
+  },
+
+  "wishlist": "Wishlist ({{numberOfWishlist}})",
+  "cashOnDelivery": "Cash on Delivery",
+  "bank": "Bank",
+  "billingDetails": "Billing Details",
+  "skipToContent": "Skip to Content",
+  "whatImWorking" :"What i'm working on?"
+}

@@ -1,0 +1,110 @@
+@import "src/Styles/mixins";
+
+.slide {
+  background-color: var(--black);
+  display: flex !important;
+  justify-content: flex-end;
+  padding: 0; /* Menghilangkan padding agar gambar benar-benar penuh */
+  position: relative;
+  width: 100vw; /* Memastikan slide mengambil seluruh lebar viewport */
+  height: 100vh; /* Opsional, menyesuaikan tinggi sesuai kebutuhan */
+}
+
+@include very-small {
+  .slide {
+    justify-content: center;
+  }
+}
+
+.slide img {
+  width: 472px; /* Atur lebar tetap */
+  height: 300px; /* Atur tinggi tetap */
+  object-fit: cover; /* Memastikan gambar memenuhi area tanpa distorsi */
+  object-position: center; /* Opsional: pusatkan gambar */
+  border-radius: 4px; /* Opsional: tambahkan sudut membulat jika diperlukan */
+}
+
+.content {
+  position: absolute;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+// Arabic styles
+[lang=ar] .slide {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+[lang=ar] .content {
+  direction: rtl;
+  left: auto;
+  right: 40px;
+  width: 400px;
+  align-items: flex-start;
+}
+
+[lang=ar] .nameProduct {
+  direction: ltr;
+}
+
+[lang=ar] .discount {
+  width: 420px;
+}
+
+@include medium {
+  [lang=ar] .discount {
+    width: 340px;
+  }
+}
+
+[lang=ar] .arrow {
+  rotate: 180deg;
+}
+
+// Hungarian styles
+[lang=hu] {
+  .discount {
+    width: 500px;
+  }
+}
+
+@include medium {
+  [lang=hu] {
+    .discount {
+      width: 400px;
+    }
+  }
+}
+
+// Japanese styles
+@include medium {
+  [lang=ja] {
+    .discount {
+      width: 300px;
+    }
+  }
+}
+
+// French styles
+[lang=fr] .discount {
+  width: 450px;
+  font-size: 2rem;
+  line-height: 50px;
+}
+
+@include medium {
+  [lang=fr] .discount {
+    width: 380px;
+    font-size: 1.5rem;
+    line-height: 40px;
+  }
+}
+
+// russia styles
+@include medium {
+  [lang=ru] .discount {
+    width: 320px;
+  }
+}
